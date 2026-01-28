@@ -1,0 +1,7 @@
+teman = ['adit', 'maul', 'rakha']
+
+teman.append('Rudi')
+
+teman.remove('Andi')
+
+print(teman)
