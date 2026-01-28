@@ -1,0 +1,8 @@
+fruits = ['apel', 'pisang', 'mangga', 'jeruk', 'anggur', 'semangka', 'nanas', 'melon']
+vegetables = ['bayam', 'wortel', 'kangkung', 'brokoli', 'tomat', 'sawi', 'kol']
+
+groceries = fruits + vegetables
+total_barang = len(groceries)
+
+print('Daftar belanja:', groceries)
+print('Saya perlu membeli', total_barang, 'barang dari toko.')
