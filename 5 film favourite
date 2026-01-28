@@ -1,0 +1,7 @@
+movies = ['Spiderman', 'Harry Potter', 'Frozen', 'The Lion King', 'Toy Story']
+
+film_utama = movies[0]
+film_kedua = movies[1]
+
+print('Film favorit saya adalah', film_utama)
+print('Film favorit kedua saya adalah', film_kedua)
