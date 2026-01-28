@@ -1,0 +1,2 @@
+hobbies = ['bermain bola', 'membaca buku', 'mendengarkan musik']
+print(hobbies)
